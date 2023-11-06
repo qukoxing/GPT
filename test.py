@@ -20,6 +20,8 @@ def push_repo(local_path, branch_name, ssh_key_path):
     print(f"Waiting for {wait_time} seconds before the next operation.")
     time.sleep(wait_time)
 
+a = 1
+
 
 if __name__ == '__main__':
     print("yes"）
