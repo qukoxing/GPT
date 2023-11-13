@@ -12,3 +12,4 @@ from fractions import Fraction
 from typing import Iterator, List, Match, Optional, Union
 
 from more_itertools import windowed
+
