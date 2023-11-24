@@ -35,3 +35,4 @@ class EnglishNumberNormalizer:
             name: i
             for i, name in enumerate(
                 [
+                    "one",
