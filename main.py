@@ -41,3 +41,4 @@ class EnglishNumberNormalizer:
                     "four",
                     "five",
                     "six",
+                    "seven",
