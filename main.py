@@ -40,3 +40,4 @@ class EnglishNumberNormalizer:
                     "three",
                     "four",
                     "five",
+                    "six",
