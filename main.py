@@ -49,3 +49,4 @@ class EnglishNumberNormalizer:
                     "twelve",
                     "thirteen",
                     "fourteen",
+                    "fifteen",
