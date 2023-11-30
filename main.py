@@ -56,3 +56,4 @@ class EnglishNumberNormalizer:
                     "nineteen",
                 ],
                 start=1,
+            )
