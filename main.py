@@ -58,3 +58,4 @@ class EnglishNumberNormalizer:
                 start=1,
             )
         }
+        self.ones_plural = {
