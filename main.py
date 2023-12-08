@@ -71,3 +71,4 @@ class EnglishNumberNormalizer:
             "twelfth": (12, "th"),
             **{
                 name + ("h" if name.endswith("t") else "th"): (value, "th")
+                for name, value in self.ones.items()
