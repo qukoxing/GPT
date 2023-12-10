@@ -74,3 +74,4 @@ class EnglishNumberNormalizer:
                 for name, value in self.ones.items()
                 if value > 3 and value != 5 and value != 12
             },
+        }
