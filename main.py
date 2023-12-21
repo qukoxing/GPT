@@ -87,3 +87,4 @@ class EnglishNumberNormalizer:
             "eighty": 80,
             "ninety": 90,
         }
+        self.tens_plural = {
