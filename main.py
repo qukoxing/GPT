@@ -95,3 +95,4 @@ class EnglishNumberNormalizer:
             for name, value in self.tens.items()
         }
         self.tens_suffixed = {**self.tens_plural, **self.tens_ordinal}
+
