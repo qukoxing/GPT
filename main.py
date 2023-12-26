@@ -100,3 +100,4 @@ class EnglishNumberNormalizer:
             "hundred": 100,
             "thousand": 1_000,
             "million": 1_000_000,
+            "billion": 1_000_000_000,
