@@ -102,3 +102,4 @@ class EnglishNumberNormalizer:
             "million": 1_000_000,
             "billion": 1_000_000_000,
             "trillion": 1_000_000_000_000,
+            "quadrillion": 1_000_000_000_000_000,
