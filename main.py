@@ -111,3 +111,4 @@ class EnglishNumberNormalizer:
             "decillion": 1_000_000_000_000_000_000_000_000_000_000_000,
         }
         self.multipliers_plural = {
+            name + "s": (value, "s") for name, value in self.multipliers.items()
