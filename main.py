@@ -113,3 +113,4 @@ class EnglishNumberNormalizer:
         self.multipliers_plural = {
             name + "s": (value, "s") for name, value in self.multipliers.items()
         }
+        self.multipliers_ordinal = {
