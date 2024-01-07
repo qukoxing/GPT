@@ -117,3 +117,4 @@ class EnglishNumberNormalizer:
             name + "th": (value, "th") for name, value in self.multipliers.items()
         }
         self.multipliers_suffixed = {
+            **self.multipliers_plural,
