@@ -116,3 +116,4 @@ class EnglishNumberNormalizer:
         self.multipliers_ordinal = {
             name + "th": (value, "th") for name, value in self.multipliers.items()
         }
+        self.multipliers_suffixed = {
