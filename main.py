@@ -118,3 +118,4 @@ class EnglishNumberNormalizer:
         }
         self.multipliers_suffixed = {
             **self.multipliers_plural,
+            **self.multipliers_ordinal,
