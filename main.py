@@ -121,3 +121,4 @@ class EnglishNumberNormalizer:
             **self.multipliers_ordinal,
         }
         self.decimals = {*self.ones, *self.tens, *self.zeros}
+
