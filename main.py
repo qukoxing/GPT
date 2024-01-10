@@ -123,3 +123,4 @@ class EnglishNumberNormalizer:
         self.decimals = {*self.ones, *self.tens, *self.zeros}
 
         self.preceding_prefixers = {
+            "minus": "-",
