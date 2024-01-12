@@ -126,3 +126,4 @@ class EnglishNumberNormalizer:
             "minus": "-",
             "negative": "-",
             "plus": "+",
+            "positive": "+",
