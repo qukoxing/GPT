@@ -125,3 +125,4 @@ class EnglishNumberNormalizer:
         self.preceding_prefixers = {
             "minus": "-",
             "negative": "-",
+            "plus": "+",
