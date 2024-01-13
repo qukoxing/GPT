@@ -128,3 +128,4 @@ class EnglishNumberNormalizer:
             "plus": "+",
             "positive": "+",
         }
+        self.following_prefixers = {
