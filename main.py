@@ -130,3 +130,4 @@ class EnglishNumberNormalizer:
         }
         self.following_prefixers = {
             "pound": "£",
+            "pounds": "£",
