@@ -132,3 +132,4 @@ class EnglishNumberNormalizer:
             "pound": "£",
             "pounds": "£",
             "euro": "€",
+            "euros": "€",
