@@ -133,3 +133,4 @@ class EnglishNumberNormalizer:
             "pounds": "£",
             "euro": "€",
             "euros": "€",
+            "dollar": "$",
