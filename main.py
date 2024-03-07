@@ -134,3 +134,4 @@ class EnglishNumberNormalizer:
             "euro": "€",
             "euros": "€",
             "dollar": "$",
+            "dollars": "$",
