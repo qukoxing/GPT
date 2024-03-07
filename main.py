@@ -135,3 +135,4 @@ class EnglishNumberNormalizer:
             "euros": "€",
             "dollar": "$",
             "dollars": "$",
+            "cent": "¢",
