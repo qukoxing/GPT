@@ -137,3 +137,4 @@ class EnglishNumberNormalizer:
             "dollars": "$",
             "cent": "¢",
             "cents": "¢",
+        }
