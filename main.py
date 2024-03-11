@@ -139,3 +139,4 @@ class EnglishNumberNormalizer:
             "cents": "¢",
         }
         self.prefixes = set(
+            list(self.preceding_prefixers.values())
