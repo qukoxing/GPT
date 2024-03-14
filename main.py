@@ -140,3 +140,4 @@ class EnglishNumberNormalizer:
         }
         self.prefixes = set(
             list(self.preceding_prefixers.values())
+            + list(self.following_prefixers.values())
