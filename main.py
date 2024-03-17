@@ -143,3 +143,4 @@ class EnglishNumberNormalizer:
             + list(self.following_prefixers.values())
         )
         self.suffixers = {
+            "per": {"cent": "%"},
