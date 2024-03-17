@@ -145,3 +145,4 @@ class EnglishNumberNormalizer:
         self.suffixers = {
             "per": {"cent": "%"},
             "percent": "%",
+        }
