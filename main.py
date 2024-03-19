@@ -147,3 +147,4 @@ class EnglishNumberNormalizer:
             "percent": "%",
         }
         self.specials = {"and", "double", "triple", "point"}
+
