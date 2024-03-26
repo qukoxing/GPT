@@ -148,3 +148,4 @@ class EnglishNumberNormalizer:
         }
         self.specials = {"and", "double", "triple", "point"}
 
+        self.words = set(
