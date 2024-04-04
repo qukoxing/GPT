@@ -149,3 +149,4 @@ class EnglishNumberNormalizer:
         self.specials = {"and", "double", "triple", "point"}
 
         self.words = set(
+from fractions import Fraction
