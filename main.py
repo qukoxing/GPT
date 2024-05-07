@@ -159,3 +159,4 @@ from .basic import remove_symbols_and_diacritics
 
 class EnglishNumberNormalizer:
     """
+    Convert any spelled-out numbers into arabic numbers, while handling:
