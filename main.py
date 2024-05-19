@@ -165,3 +165,4 @@ class EnglishNumberNormalizer:
     - keep the suffixes such as: `1960s`, `274th`, `32nd`, etc.
     - spell out currency symbols after the number. e.g. `$20 million` -> `20000000 dollars`
     - spell out `one` and `ones`
+    - interpret successive single-digit numbers as nominal: `one oh one` -> `101`
