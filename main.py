@@ -196,3 +196,4 @@ class EnglishNumberNormalizer:
                     "eighteen",
                     "nineteen",
                 ],
+                start=1,
