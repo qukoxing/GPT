@@ -204,3 +204,4 @@ class EnglishNumberNormalizer:
     """
     Convert any spelled-out numbers into arabic numbers, while handling:
 
+    - remove any commas
