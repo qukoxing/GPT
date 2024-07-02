@@ -216,3 +216,4 @@ class EnglishNumberNormalizer:
 
         self.zeros = {"o", "oh", "zero"}
         self.ones = {
+            name: i
