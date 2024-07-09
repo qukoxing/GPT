@@ -226,3 +226,4 @@ class EnglishNumberNormalizer:
                     "five",
                     "six",
                     "seven",
+                    "eight",
