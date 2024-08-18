@@ -237,3 +237,4 @@ class EnglishNumberNormalizer:
                     "sixteen",
                     "seventeen",
                     "eighteen",
+from fractions import Fraction
