@@ -254,3 +254,4 @@ class EnglishNumberNormalizer:
     - spell out currency symbols after the number. e.g. `$20 million` -> `20000000 dollars`
     - spell out `one` and `ones`
     - interpret successive single-digit numbers as nominal: `one oh one` -> `101`
+    """
