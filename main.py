@@ -256,3 +256,4 @@ class EnglishNumberNormalizer:
     - interpret successive single-digit numbers as nominal: `one oh one` -> `101`
     """
 
+    def __init__(self):
