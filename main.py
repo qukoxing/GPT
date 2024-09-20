@@ -260,3 +260,4 @@ class EnglishNumberNormalizer:
         super().__init__()
 
         self.zeros = {"o", "oh", "zero"}
+        self.ones = {
