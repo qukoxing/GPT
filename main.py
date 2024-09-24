@@ -273,3 +273,4 @@ class EnglishNumberNormalizer:
                     "seven",
                     "eight",
                     "nine",
+                    "ten",
