@@ -275,3 +275,4 @@ class EnglishNumberNormalizer:
                     "nine",
                     "ten",
                     "eleven",
+                    "twelve",
