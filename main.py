@@ -292,3 +292,4 @@ class EnglishNumberNormalizer:
             for name, value in self.ones.items()
         }
         self.ones_ordinal = {
+            "zeroth": (0, "th"),
