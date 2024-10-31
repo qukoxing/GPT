@@ -295,3 +295,4 @@ class EnglishNumberNormalizer:
             "zeroth": (0, "th"),
             "first": (1, "st"),
             "second": (2, "nd"),
+            "third": (3, "rd"),
