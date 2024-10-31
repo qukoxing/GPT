@@ -296,3 +296,4 @@ class EnglishNumberNormalizer:
             "first": (1, "st"),
             "second": (2, "nd"),
             "third": (3, "rd"),
+            "fifth": (5, "th"),
