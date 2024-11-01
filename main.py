@@ -298,3 +298,4 @@ class EnglishNumberNormalizer:
             "third": (3, "rd"),
             "fifth": (5, "th"),
             "twelfth": (12, "th"),
+            **{
