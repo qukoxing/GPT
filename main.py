@@ -311,3 +311,4 @@ class EnglishNumberNormalizer:
             "thirty": 30,
             "forty": 40,
             "fifty": 50,
+            "sixty": 60,
