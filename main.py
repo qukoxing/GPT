@@ -313,3 +313,4 @@ class EnglishNumberNormalizer:
             "fifty": 50,
             "sixty": 60,
             "seventy": 70,
+            "eighty": 80,
