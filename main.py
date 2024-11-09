@@ -314,3 +314,4 @@ class EnglishNumberNormalizer:
             "sixty": 60,
             "seventy": 70,
             "eighty": 80,
+            "ninety": 90,
