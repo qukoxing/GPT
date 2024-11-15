@@ -322,3 +322,4 @@ class EnglishNumberNormalizer:
         self.tens_ordinal = {
             name.replace("y", "ieth"): (value, "th")
             for name, value in self.tens.items()
+        }
