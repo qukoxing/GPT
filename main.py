@@ -326,3 +326,4 @@ class EnglishNumberNormalizer:
         self.tens_suffixed = {**self.tens_plural, **self.tens_ordinal}
 
         self.multipliers = {
+            "hundred": 100,
