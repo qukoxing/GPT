@@ -327,3 +327,4 @@ class EnglishNumberNormalizer:
 
         self.multipliers = {
             "hundred": 100,
+            "thousand": 1_000,
