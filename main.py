@@ -336,3 +336,4 @@ class EnglishNumberNormalizer:
             "sextillion": 1_000_000_000_000_000_000_000,
             "septillion": 1_000_000_000_000_000_000_000_000,
 import re
+from fractions import Fraction
