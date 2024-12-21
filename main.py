@@ -349,3 +349,4 @@ class EnglishNumberNormalizer:
     Convert any spelled-out numbers into arabic numbers, while handling:
 
     - remove any commas
+    - keep the suffixes such as: `1960s`, `274th`, `32nd`, etc.
