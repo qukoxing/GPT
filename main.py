@@ -364,3 +364,4 @@ class EnglishNumberNormalizer:
             for i, name in enumerate(
                 [
                     "one",
+                    "two",
