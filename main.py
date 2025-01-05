@@ -366,3 +366,4 @@ class EnglishNumberNormalizer:
                     "one",
                     "two",
                     "three",
+                    "four",
