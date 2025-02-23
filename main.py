@@ -376,3 +376,4 @@ class EnglishNumberNormalizer:
                     "eleven",
                     "twelve",
                     "thirteen",
+                    "fourteen",
