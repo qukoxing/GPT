@@ -382,3 +382,4 @@ class EnglishNumberNormalizer:
                     "seventeen",
                     "eighteen",
                     "nineteen",
+                ],
