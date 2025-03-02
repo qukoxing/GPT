@@ -380,3 +380,4 @@ class EnglishNumberNormalizer:
                     "fifteen",
                     "sixteen",
                     "seventeen",
+                    "eighteen",
