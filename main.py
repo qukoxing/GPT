@@ -390,3 +390,4 @@ class EnglishNumberNormalizer:
             "sixes" if name == "six" else name + "s": (value, "s")
             for name, value in self.ones.items()
         }
+        self.ones_ordinal = {
