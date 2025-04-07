@@ -406,3 +406,4 @@ class EnglishNumberNormalizer:
         self.ones_suffixed = {**self.ones_plural, **self.ones_ordinal}
 
         self.tens = {
+            "twenty": 20,
