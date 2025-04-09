@@ -408,3 +408,4 @@ class EnglishNumberNormalizer:
         self.tens = {
             "twenty": 20,
             "thirty": 30,
+            "forty": 40,
