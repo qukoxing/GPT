@@ -409,3 +409,4 @@ class EnglishNumberNormalizer:
             "twenty": 20,
             "thirty": 30,
             "forty": 40,
+            "fifty": 50,
