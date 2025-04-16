@@ -411,3 +411,4 @@ class EnglishNumberNormalizer:
             "forty": 40,
             "fifty": 50,
             "sixty": 60,
+            "seventy": 70,
