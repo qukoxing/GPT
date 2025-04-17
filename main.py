@@ -416,3 +416,4 @@ class EnglishNumberNormalizer:
             "ninety": 90,
         }
         self.tens_plural = {
+            name.replace("y", "ies"): (value, "s") for name, value in self.tens.items()
