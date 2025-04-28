@@ -433,3 +433,4 @@ class EnglishNumberNormalizer:
             "quadrillion": 1_000_000_000_000_000,
             "quintillion": 1_000_000_000_000_000_000,
             "sextillion": 1_000_000_000_000_000_000_000,
+            "septillion": 1_000_000_000_000_000_000_000_000,
