@@ -461,3 +461,4 @@ class EnglishNumberNormalizer:
         self.ones = {
             name: i
             for i, name in enumerate(
+                [
