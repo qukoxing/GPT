@@ -466,3 +466,4 @@ class EnglishNumberNormalizer:
                     "two",
                     "three",
                     "four",
+                    "five",
