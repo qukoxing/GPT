@@ -474,3 +474,4 @@ class EnglishNumberNormalizer:
                     "ten",
                     "eleven",
                     "twelve",
+                    "thirteen",
