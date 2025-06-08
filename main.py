@@ -478,3 +478,4 @@ class EnglishNumberNormalizer:
                     "fourteen",
                     "fifteen",
                     "sixteen",
+                    "seventeen",
