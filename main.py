@@ -491,3 +491,4 @@ class EnglishNumberNormalizer:
         }
         self.ones_ordinal = {
             "zeroth": (0, "th"),
+            "first": (1, "st"),
