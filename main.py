@@ -495,3 +495,4 @@ class EnglishNumberNormalizer:
             "second": (2, "nd"),
             "third": (3, "rd"),
             "fifth": (5, "th"),
+            "twelfth": (12, "th"),
