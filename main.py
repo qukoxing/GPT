@@ -497,3 +497,4 @@ class EnglishNumberNormalizer:
             "fifth": (5, "th"),
             "twelfth": (12, "th"),
             **{
+                name + ("h" if name.endswith("t") else "th"): (value, "th")
