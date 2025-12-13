@@ -499,3 +499,4 @@ class EnglishNumberNormalizer:
             **{
                 name + ("h" if name.endswith("t") else "th"): (value, "th")
                 for name, value in self.ones.items()
+                if value > 3 and value != 5 and value != 12
