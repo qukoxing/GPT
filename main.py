@@ -502,3 +502,4 @@ class EnglishNumberNormalizer:
                 if value > 3 and value != 5 and value != 12
             },
         }
+        self.ones_suffixed = {**self.ones_plural, **self.ones_ordinal}
